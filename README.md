@@ -5,7 +5,7 @@ Hello Git,
 
 I am not a programmer, coder, or anything; all of my scripting knowledge is self-learned. I write scripts to solve scientific problems, but in the past I've mainly limited myself to Mathematica, Igor Pro, Matlab, MathCAD, and a few other environments. I've always had a bit of trepidation for sharing my work, but I am not adverse to constructive criticism.  
 
-This is my first attempt at (1) using Git, (2) using Python for scientific computing purposes, and (3) using GIS tools for data visualization.  The goals of this project are as follows:  (1) scrape data from remote sources, (2) process the data in some manner, (3) store this data in a retreivable package, (4) do something fun with this data, and (5) do all of this using Python only.
+This is my first attempt at (1) using Git, (2) using Python for scientific computing purposes, and (3) using GIS tools for data visualization.  The goals of this project are as follows:  (1) scrape data from remote sources, (2) process the data in some manner, (3) store this data in a retrievable package, (4) do something fun with this data, and (5) do all of this using Python only.
 
 You'll find here two scripts: 
 
