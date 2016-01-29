@@ -17,7 +17,7 @@ For example:
 ![Average Maximum Temperatures in the USA - December](https://github.com/jklobas/weatherproject/blob/master/figure_1Avgs.png)
 This graphic depicts the average maximum temperatures recorded in the USA between 1951 - 2015 as well as the weather station locations used to compute this data.
 
-We can then plot the temperature anomaly (that is, subtract the monthly normal from the observered average). I do this here for December 2015:
+We can then plot the temperature anomaly (that is, subtract the monthly normal from the observed average). I do this here for December 2015:
 ![December 2015 Maximum Temperature Anomaly](https://github.com/jklobas/weatherproject/blob/master/figure_1anom.png)
 I believe the dipole in Montana is an artifact of interpolating over bad weather station data.
 
