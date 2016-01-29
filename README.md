@@ -24,7 +24,7 @@ I believe the dipole in Montana is an artifact of interpolating over bad weather
 And then we can also easily generate graphics depicting the Student's T-distribution score ( [observed - average] / standard deviation ), showing that for most of the Eastern United States, December 2015 was extraordinarily warm.
 ![December 2015 Maximum Temperature T-Scores](https://github.com/jklobas/weatherproject/blob/master/figure_1tstat.png)
 
-Similarly, we can look at each individual weather station.  Here, we zoom into the Blue Hills Reservation weather station in Massachussets.
+Similarly, we can look at each individual weather station.  Here, we zoom into the Blue Hills Reservation weather station in Massachusetts.
 ![December Minimum Temperatures by Year, Blue Hills Reservation](https://github.com/jklobas/weatherproject/blob/master/mintemp.png)
 ![December Maximum Temperatures by Year, Blue Hills Reservation](https://github.com/jklobas/weatherproject/blob/master/maxtemp.png)
 
